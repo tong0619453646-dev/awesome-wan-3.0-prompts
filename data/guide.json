@@ -1,0 +1,462 @@
+{
+ "en": {
+  "categories": {
+   "text-to-video": {
+    "name": "Text to video",
+    "intro": "Whole clips written from a text prompt alone, up to 30 seconds and several shots long."
+   },
+   "image-reference": {
+    "name": "Image reference",
+    "intro": "Keep a character, product or style from up to ten pictures by calling them Image1, Image2 and so on."
+   },
+   "video-reference": {
+    "name": "Video reference",
+    "intro": "Borrow the camera work or motion of a reference clip and change the scene."
+   },
+   "audio-reference": {
+    "name": "Audio reference",
+    "intro": "Set a voice, a beat or a mood from audio you upload."
+   },
+   "video-edit": {
+    "name": "Video editing",
+    "intro": "Change one thing in an existing clip and leave the rest as it was."
+   },
+   "video-extend": {
+    "name": "Video extension",
+    "intro": "Continue a clip with new action, dialogue and sound."
+   },
+   "first-last-frame": {
+    "name": "First and last frame",
+    "intro": "Pin the opening frame, or both ends, and describe what happens between them."
+   }
+  },
+  "formulas": {
+   "title": "How to write a Wan 3.0 prompt",
+   "intro": "Four ways to build a prompt, adapted from the official handbook.",
+   "items": [
+    {
+     "h": "Basic",
+     "formula": "Subject + scene + motion",
+     "t": "Who or what, where, and what it does. Enough for a first try, and it leaves room for the model to improvise."
+    },
+    {
+     "h": "Advanced",
+     "formula": "Subject + scene + motion + aesthetic control + style + sound",
+     "t": "Add lighting, shot size, angle and camera moves, a named visual style, and the audio. Describe motion by size and speed (\"slowly\", \"violently\") and say what it affects."
+    },
+    {
+     "h": "Image or first frame",
+     "formula": "Motion + camera",
+     "t": "The picture already fixes subject, scene and style, so write only what moves and how the camera follows."
+    },
+    {
+     "h": "Sound",
+     "formula": "Voice + sound effects + music",
+     "t": "Give each line of dialogue or narration and describe the voice (low and rough, cute), then the effects and the background music."
+    }
+   ]
+  },
+  "tips": {
+   "title": "What the examples show",
+   "items": [
+    {
+     "h": "Time-box long clips.",
+     "t": "The 30-second prompts split into shots or segments with a time range each, such as \"Segment 1 [0-5 s]\" or \"(0:00 - 0:03)\"."
+    },
+    {
+     "h": "Mark sound in the prompt.",
+     "t": "Sound effects go in angle brackets, <footsteps on wood>, and spoken lines in curly braces, {Let us go}."
+    },
+    {
+     "h": "Number your references.",
+     "t": "Call files Image1, Video1 and Audio1 (or 图1 in Chinese), in the order you pass them."
+    },
+    {
+     "h": "Name the change, then lock the rest.",
+     "t": "Edit prompts state one change and close with what stays: \"the woman's movement and everything else stay unchanged\"."
+    },
+    {
+     "h": "Mind the 30-second ceiling when extending.",
+     "t": "Input plus output length stays within 30 seconds, so extending a 15-second clip by 15 seconds fills it."
+    }
+   ]
+  },
+  "faq": {
+   "title": "FAQ",
+   "items": [
+    {
+     "question": "Are these Wan 3.0 prompts free to use?",
+     "answer": "Yes, the prompts are free to copy, edit and run. The sample videos are Alibaba's, published in its public handbook: treat them as reference, not as footage of your own, and read Alibaba's terms before reusing them. For clips you generate, make sure you may use whatever you upload."
+    },
+    {
+     "question": "Do I need to write prompts in Chinese?",
+     "answer": "No. Wan 3.0 takes Chinese and English prompts of up to 20,000 characters. The official text is Chinese; the English, Traditional Chinese and Korean versions here are translations, and Copy gives the version in your site language."
+    },
+    {
+     "question": "How do I pass reference images, videos and audio through the API?",
+     "answer": "Send HTTPS URLs in reference_image_urls (up to 10), reference_videos (up to 5, 1-15 s each and 15 s in total) and reference_audios (up to 5) on Wan 3.0 Reference-to-Video. Image-to-Video takes first_image_url and last_image_url. Parameters and examples are in the Wan 3.0 docs."
+    },
+    {
+     "question": "What does Use do?",
+     "answer": "It opens the right Wan 3.0 model page with the prompt filled in, and attaches the example's reference files where they fit the model's limits. Edit anything, then run it from your APIKO account."
+    },
+    {
+     "question": "What does a Wan 3.0 clip cost?",
+     "answer": "Billing is per second of output, and reference-video seconds count too. Dated prices from every provider are on the Wan 3.0 API price comparison."
+    }
+   ]
+  },
+  "roles": {
+   "reference": "Reference",
+   "source": "Source video",
+   "first": "First frame",
+   "last": "Last frame"
+  },
+  "trimmed": "The reference audio was trimmed to 15 s to fit the API limit."
+ },
+ "zh": {
+  "categories": {
+   "text-to-video": {
+    "name": "文生视频",
+    "intro": "只靠文字写出整支视频，最长 30 秒，可含多个镜头。"
+   },
+   "image-reference": {
+    "name": "图片参考",
+    "intro": "最多十张图，在提示词里叫「图1」「图2」，让人物、商品或风格保持一致。"
+   },
+   "video-reference": {
+    "name": "视频参考",
+    "intro": "借用参考视频的运镜或动作，换掉场景。"
+   },
+   "audio-reference": {
+    "name": "音频参考",
+    "intro": "用上传的音频定音色、节拍和情绪。"
+   },
+   "video-edit": {
+    "name": "视频编辑",
+    "intro": "只改已有视频里的一处，其余原样保留。"
+   },
+   "video-extend": {
+    "name": "视频延长",
+    "intro": "接着一段视频往下写新的动作、对白和声音。"
+   },
+   "first-last-frame": {
+    "name": "首尾帧",
+    "intro": "指定首帧，或首尾两帧，只描述中间发生什么。"
+   }
+  },
+  "formulas": {
+   "title": "Wan 3.0 提示词怎么写",
+   "intro": "四种写法，改写自官方手册。",
+   "items": [
+    {
+     "h": "基础公式",
+     "formula": "主体 + 场景 + 运动",
+     "t": "谁或什么，在哪里，做什么。第一次上手够用，也给模型留了发挥空间。"
+    },
+    {
+     "h": "进阶公式",
+     "formula": "主体 + 场景 + 运动 + 美学控制 + 风格化 + 音效",
+     "t": "补上光线、景别、视角和运镜，点明画面风格，再写声音。运动要说幅度和快慢（「缓慢地」「猛烈地」）以及产生的效果。"
+    },
+    {
+     "h": "图片或首帧",
+     "formula": "运动 + 运镜",
+     "t": "图片已经定了主体、场景和风格，只写什么在动，以及镜头怎么跟。"
+    },
+    {
+     "h": "声音",
+     "formula": "人声 + 音效 + 配乐",
+     "t": "写出每句台词或旁白并描述音色（低沉沙哑、可爱），再写音效和背景音乐。"
+    }
+   ]
+  },
+  "tips": {
+   "title": "示例里看得到的写法",
+   "items": [
+    {
+     "h": "长视频按时间切段。",
+     "t": "30 秒的提示词都拆成镜头或分段，各给一个时间范围，如「分段1[0-5秒]」「(0:00 - 0:03)」。"
+    },
+    {
+     "h": "声音直接写进提示词。",
+     "t": "音效放在尖括号里，<脚步踩在木地板上的两声轻响>；台词放在花括号里，{走吧}。"
+    },
+    {
+     "h": "素材按序号称呼。",
+     "t": "用「图1」「视频1」「音频1」（英文写 Image1、Video1、Audio1），序号与传入顺序一致。"
+    },
+    {
+     "h": "先写改动，再锁其余。",
+     "t": "编辑类提示词只说一处改动，结尾交代不变的部分：「女人的动作和画面其余部分保持不变」。"
+    },
+    {
+     "h": "延长时留意 30 秒上限。",
+     "t": "输入加输出的总长不超过 30 秒，所以 15 秒的视频最多再延长 15 秒。"
+    }
+   ]
+  },
+  "faq": {
+   "title": "常见问题",
+   "items": [
+    {
+     "question": "这些 Wan 3.0 提示词可以免费用吗？",
+     "answer": "可以，提示词可以免费复制、修改和运行。示例视频属于阿里，发布在它的公开手册里：只作参考，不要当成自己的素材，要转用请先读阿里的条款。你自己生成的视频，请确认上传的素材你有权使用。"
+    },
+    {
+     "question": "提示词必须写中文吗？",
+     "answer": "不必。Wan 3.0 支持中英文提示词，最长 20,000 字符。官方原文是中文，英文、繁体中文和韩文版本是翻译，「复制」会给出当前站点语言的版本。"
+    },
+    {
+     "question": "怎么通过 API 传参考图、视频和音频？",
+     "answer": "在 Wan 3.0 参考生视频里，用 HTTPS 链接填 reference_image_urls（最多 10 个）、reference_videos（最多 5 个，每个 1-15 秒，合计 15 秒）和 reference_audios（最多 5 个）。图生视频用 first_image_url 和 last_image_url。参数和示例见 Wan 3.0 文档。"
+    },
+    {
+     "question": "「使用」会做什么？",
+     "answer": "打开对应的 Wan 3.0 模型页并填好提示词；示例的参考素材在模型限制内会一并带上。可随意修改，再用你的 APIKO 账号运行。"
+    },
+    {
+     "question": "Wan 3.0 生成一段视频要多少钱？",
+     "answer": "按输出秒数计费，参考视频的秒数也计入。各家的带日期价格见 Wan 3.0 API 价格对比。"
+    }
+   ]
+  },
+  "roles": {
+   "reference": "参考素材",
+   "source": "编辑前视频",
+   "first": "首帧",
+   "last": "尾帧"
+  },
+  "trimmed": "参考音频已截取为 15 秒，以符合 API 的时长限制。"
+ },
+ "zh-TW": {
+  "categories": {
+   "text-to-video": {
+    "name": "文生影片",
+    "intro": "只靠文字寫出整支影片，最長 30 秒，可含多個鏡頭。"
+   },
+   "image-reference": {
+    "name": "圖片參考",
+    "intro": "最多十張圖，在提示詞裡稱為「圖1」「圖2」，讓人物、商品或風格保持一致。"
+   },
+   "video-reference": {
+    "name": "影片參考",
+    "intro": "借用參考影片的運鏡或動作，換掉場景。"
+   },
+   "audio-reference": {
+    "name": "音訊參考",
+    "intro": "用上傳的音訊決定音色、節拍與情緒。"
+   },
+   "video-edit": {
+    "name": "影片編輯",
+    "intro": "只改既有影片中的一處，其餘原樣保留。"
+   },
+   "video-extend": {
+    "name": "影片延長",
+    "intro": "接著一段影片往下寫新的動作、對白與聲音。"
+   },
+   "first-last-frame": {
+    "name": "首尾幀",
+    "intro": "指定首幀，或首尾兩幀，只描述中間發生什麼。"
+   }
+  },
+  "formulas": {
+   "title": "Wan 3.0 提示詞怎麼寫",
+   "intro": "四種寫法，改寫自官方手冊。",
+   "items": [
+    {
+     "h": "基礎公式",
+     "formula": "主體 + 場景 + 運動",
+     "t": "誰或什麼、在哪裡、做什麼。第一次上手夠用，也替模型留了發揮空間。"
+    },
+    {
+     "h": "進階公式",
+     "formula": "主體 + 場景 + 運動 + 美學控制 + 風格化 + 音效",
+     "t": "補上光線、景別、視角與運鏡，點明畫面風格，再寫聲音。運動要說幅度與快慢（「緩慢地」「猛烈地」）以及造成的效果。"
+    },
+    {
+     "h": "圖片或首幀",
+     "formula": "運動 + 運鏡",
+     "t": "圖片已經決定主體、場景與風格，只寫什麼在動，以及鏡頭怎麼跟。"
+    },
+    {
+     "h": "聲音",
+     "formula": "人聲 + 音效 + 配樂",
+     "t": "寫出每句台詞或旁白並描述音色（低沉沙啞、可愛），再寫音效與背景音樂。"
+    }
+   ]
+  },
+  "tips": {
+   "title": "範例裡看得到的寫法",
+   "items": [
+    {
+     "h": "長影片按時間切段。",
+     "t": "30 秒的提示詞都拆成鏡頭或分段，各給一個時間範圍，例如「分段1[0-5秒]」「(0:00 - 0:03)」。"
+    },
+    {
+     "h": "聲音直接寫進提示詞。",
+     "t": "音效放在角括號裡，<腳步踩在木地板上的兩聲輕響>；台詞放在大括號裡，{走吧}。"
+    },
+    {
+     "h": "素材按編號稱呼。",
+     "t": "用「圖1」「影片1」「音訊1」（英文寫 Image1、Video1、Audio1），編號與傳入順序一致。"
+    },
+    {
+     "h": "先寫改動，再鎖其餘。",
+     "t": "編輯類提示詞只說一處改動，結尾交代不變的部分：「女人的動作和畫面其餘部分保持不變」。"
+    },
+    {
+     "h": "延長時留意 30 秒上限。",
+     "t": "輸入加輸出的總長不超過 30 秒，所以 15 秒的影片最多再延長 15 秒。"
+    }
+   ]
+  },
+  "faq": {
+   "title": "常見問題",
+   "items": [
+    {
+     "question": "這些 Wan 3.0 提示詞可以免費使用嗎？",
+     "answer": "可以，提示詞可以免費複製、修改與執行。範例影片屬於阿里，發布在它的公開手冊裡：僅作參考，不要當成自己的素材，要轉用請先閱讀阿里的條款。你自己生成的影片，請確認上傳的素材你有權使用。"
+    },
+    {
+     "question": "提示詞一定要寫中文嗎？",
+     "answer": "不必。Wan 3.0 支援中英文提示詞，最長 20,000 字元。官方原文是中文，英文、繁體中文與韓文版本是翻譯，「複製」會給出目前網站語言的版本。"
+    },
+    {
+     "question": "怎麼透過 API 傳參考圖、影片與音訊？",
+     "answer": "在 Wan 3.0 參考生影片裡，用 HTTPS 連結填 reference_image_urls（最多 10 個）、reference_videos（最多 5 個，每個 1-15 秒，合計 15 秒）與 reference_audios（最多 5 個）。圖生影片用 first_image_url 與 last_image_url。參數與範例見 Wan 3.0 文件。"
+    },
+    {
+     "question": "「使用」會做什麼？",
+     "answer": "開啟對應的 Wan 3.0 模型頁並填好提示詞；範例的參考素材在模型限制內會一併帶上。可隨意修改，再用你的 APIKO 帳號執行。"
+    },
+    {
+     "question": "Wan 3.0 生成一段影片要多少錢？",
+     "answer": "按輸出秒數計費，參考影片的秒數也計入。各家附日期的價格見 Wan 3.0 API 價格比較。"
+    }
+   ]
+  },
+  "roles": {
+   "reference": "參考素材",
+   "source": "編輯前影片",
+   "first": "首幀",
+   "last": "尾幀"
+  },
+  "trimmed": "參考音訊已截取為 15 秒，以符合 API 的時長限制。"
+ },
+ "ko": {
+  "categories": {
+   "text-to-video": {
+    "name": "텍스트 투 비디오",
+    "intro": "텍스트만으로 쓴 영상으로, 최대 30초에 여러 샷을 담을 수 있습니다."
+   },
+   "image-reference": {
+    "name": "이미지 참조",
+    "intro": "최대 열 장의 이미지를 Image1, Image2로 불러 인물·제품·스타일을 유지합니다."
+   },
+   "video-reference": {
+    "name": "영상 참조",
+    "intro": "참조 영상의 카메라 워크나 동작을 빌려 장면만 바꿉니다."
+   },
+   "audio-reference": {
+    "name": "오디오 참조",
+    "intro": "업로드한 오디오로 목소리, 박자, 분위기를 정합니다."
+   },
+   "video-edit": {
+    "name": "영상 편집",
+    "intro": "기존 영상에서 한 가지만 바꾸고 나머지는 그대로 둡니다."
+   },
+   "video-extend": {
+    "name": "영상 연장",
+    "intro": "영상 뒤에 새로운 동작, 대사, 소리를 이어 붙입니다."
+   },
+   "first-last-frame": {
+    "name": "첫·끝 프레임",
+    "intro": "첫 프레임 또는 양 끝 프레임을 고정하고 그 사이에 일어나는 일만 적습니다."
+   }
+  },
+  "formulas": {
+   "title": "Wan 3.0 프롬프트 작성법",
+   "intro": "공식 핸드북을 바탕으로 정리한 네 가지 작성법입니다.",
+   "items": [
+    {
+     "h": "기본",
+     "formula": "주체 + 장면 + 동작",
+     "t": "누가 또는 무엇이, 어디에서, 무엇을 하는지 적습니다. 처음 시도하기에 충분하고 모델이 채울 여지도 남습니다."
+    },
+    {
+     "h": "심화",
+     "formula": "주체 + 장면 + 동작 + 미학 제어 + 스타일 + 사운드",
+     "t": "조명, 샷 크기, 앵글, 카메라 무빙, 화면 스타일, 소리를 더합니다. 동작은 크기와 속도(\"천천히\", \"격렬하게\")와 그 결과를 함께 적습니다."
+    },
+    {
+     "h": "이미지·첫 프레임",
+     "formula": "동작 + 카메라",
+     "t": "이미지가 이미 주체·장면·스타일을 정하므로 무엇이 움직이는지와 카메라가 어떻게 따라가는지만 적습니다."
+    },
+    {
+     "h": "사운드",
+     "formula": "음성 + 효과음 + 음악",
+     "t": "대사나 내레이션을 한 줄씩 쓰고 음색(낮고 거친, 귀여운)을 설명한 뒤 효과음과 배경음악을 적습니다."
+    }
+   ]
+  },
+  "tips": {
+   "title": "예시에서 볼 수 있는 작성법",
+   "items": [
+    {
+     "h": "긴 영상은 시간으로 나눕니다.",
+     "t": "30초 프롬프트는 샷이나 구간마다 시간 범위를 붙입니다. 예: \"구간1[0-5초]\", \"(0:00 - 0:03)\"."
+    },
+    {
+     "h": "소리는 프롬프트에 표시합니다.",
+     "t": "효과음은 꺾쇠 안에, <나무 바닥을 밟는 두 번의 발소리>, 대사는 중괄호 안에, {가자}처럼 적습니다."
+    },
+    {
+     "h": "자료에는 번호를 붙입니다.",
+     "t": "Image1, Video1, Audio1(중국어는 图1)처럼 전달한 순서대로 부릅니다."
+    },
+    {
+     "h": "바꿀 것을 적고 나머지는 잠급니다.",
+     "t": "편집 프롬프트는 변경 하나를 말하고 유지할 것으로 끝냅니다: \"여자의 동작과 나머지 화면은 그대로 유지\"."
+    },
+    {
+     "h": "연장할 때는 30초 상한을 지킵니다.",
+     "t": "입력과 출력을 합쳐 30초 이내여야 하므로 15초 영상은 최대 15초까지 늘릴 수 있습니다."
+    }
+   ]
+  },
+  "faq": {
+   "title": "자주 묻는 질문",
+   "items": [
+    {
+     "question": "이 Wan 3.0 프롬프트는 무료로 쓸 수 있나요?",
+     "answer": "네, 프롬프트는 무료로 복사하고 수정해서 실행할 수 있습니다. 샘플 영상은 알리바바의 것으로 공개 핸드북에 실려 있습니다. 참고용이며 내 영상 소재처럼 쓰면 안 되고, 재사용 전에 알리바바의 약관을 확인하세요. 직접 생성하는 영상은 업로드하는 자료의 사용 권한이 있어야 합니다."
+    },
+    {
+     "question": "프롬프트를 꼭 중국어로 써야 하나요?",
+     "answer": "아니요. Wan 3.0은 중국어와 영어 프롬프트를 최대 20,000자까지 받습니다. 공식 원문은 중국어이고 영어, 번체 중국어, 한국어는 번역본이며, 복사하면 현재 사이트 언어 버전이 복사됩니다."
+    },
+    {
+     "question": "API로 참조 이미지, 영상, 오디오는 어떻게 전달하나요?",
+     "answer": "Wan 3.0 Reference-to-Video에서 HTTPS URL을 reference_image_urls(최대 10개), reference_videos(최대 5개, 각 1-15초, 합계 15초), reference_audios(최대 5개)에 넣습니다. Image-to-Video는 first_image_url과 last_image_url을 씁니다. 파라미터와 예제는 Wan 3.0 문서에 있습니다."
+    },
+    {
+     "question": "\"사용\"을 누르면 무엇이 되나요?",
+     "answer": "해당 Wan 3.0 모델 페이지가 열리고 프롬프트가 채워집니다. 예시의 참조 파일은 모델 한도에 맞으면 함께 첨부됩니다. 자유롭게 수정한 뒤 APIKO 계정으로 실행하세요."
+    },
+    {
+     "question": "Wan 3.0 영상 한 편은 비용이 얼마인가요?",
+     "answer": "출력 초 단위로 과금하며 참조 영상의 초도 포함됩니다. 각 제공처의 날짜 기준 가격은 Wan 3.0 API 가격 비교에서 볼 수 있습니다."
+    }
+   ]
+  },
+  "roles": {
+   "reference": "참조 자료",
+   "source": "편집 전 영상",
+   "first": "첫 프레임",
+   "last": "끝 프레임"
+  },
+  "trimmed": "참조 오디오는 API 길이 제한에 맞춰 15초로 잘랐습니다."
+ }
+}
