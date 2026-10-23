@@ -164,7 +164,7 @@ done
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-01#text-to-video-01"><img src="https://media.apiko.app/prompts/wan-3-0/3c1e8f2d-4320-4ae7-8262-d7c0966b454b.webp" width="640" alt="毕业袍下的沉默"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/b42bdc52-406f-4a66-9dc3-26e931514feb" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -182,7 +182,7 @@ done
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-02#text-to-video-02"><img src="https://media.apiko.app/prompts/wan-3-0/1f1b7a7e-3929-4f52-bd23-f204a411be50.webp" width="640" alt="空荡医院的求救"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/c00e3016-40d4-4c27-bbca-7822927b7c97" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -200,7 +200,7 @@ done
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-03#text-to-video-03"><img src="https://media.apiko.app/prompts/wan-3-0/22039bc3-14a5-40df-9f18-ab8deb722951.webp" width="640" alt="一镜到底的爆料喜剧"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/636ae3e4-d214-421f-9059-443260c6c23c" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -222,7 +222,7 @@ done
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-04#text-to-video-04"><img src="https://media.apiko.app/prompts/wan-3-0/d5fcf852-bbfe-43b1-96c5-49a9318e86c5.webp" width="640" alt="购物车冲进广告牌"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/dcb0a3a4-6f54-4894-ab18-4d8ae7517ef6" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -254,7 +254,7 @@ done
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-05#text-to-video-05"><img src="https://media.apiko.app/prompts/wan-3-0/47bf9780-bc11-4f6b-b365-5eb89b9d4bb7.webp" width="640" alt="骨骼战兵与花"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/1ef4be8d-cd78-4e05-b790-262c0b09d817" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -427,7 +427,7 @@ GERMINATION COMPLETE
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-06#text-to-video-06"><img src="https://media.apiko.app/prompts/wan-3-0/73269a8a-b076-4b84-b487-db6fcf2dcd11.webp" width="640" alt="暴雨海面的巨兽"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/ac054a10-ff81-4bc1-af0b-e118d42b5ba1" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -456,7 +456,7 @@ GERMINATION COMPLETE
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-07#text-to-video-07"><img src="https://media.apiko.app/prompts/wan-3-0/82172c31-e062-4171-b436-f0a34c0074d4.webp" width="640" alt="女牛仔给马加油"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/17b9ecb0-87d3-4601-8dde-295cbaeceec1" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -510,7 +510,7 @@ GERMINATION COMPLETE
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-08#text-to-video-08"><img src="https://media.apiko.app/prompts/wan-3-0/773d18fd-d876-4768-8468-223ae7f77230.webp" width="640" alt="湖心发光的巨型植物"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/fe741e2c-72d4-431e-b614-e7b836e069a0" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -528,7 +528,7 @@ GERMINATION COMPLETE
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-09#text-to-video-09"><img src="https://media.apiko.app/prompts/wan-3-0/9ebe1b23-a393-44cd-a24a-abcadad14553.webp" width="640" alt="悬崖边的白裙少女"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/d6be8d09-e12f-4490-ab4a-aba0ae3209b4" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -548,7 +548,7 @@ GERMINATION COMPLETE
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-10#text-to-video-10"><img src="https://media.apiko.app/prompts/wan-3-0/1a385754-2227-4e09-b883-817460f55d78.webp" width="640" alt="拳击场上的疲惫出拳"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/88139017-789b-49f6-8ff0-619ba79d0589" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -566,7 +566,7 @@ GERMINATION COMPLETE
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-11#text-to-video-11"><img src="https://media.apiko.app/prompts/wan-3-0/03c5b761-df2b-4d44-abbe-a2497f8bd06b.webp" width="640" alt="虚空前的冷笑"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/8f04cc35-8df3-49b8-bc68-aa6abbcc5dfd" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -588,7 +588,7 @@ GERMINATION COMPLETE
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-12#text-to-video-12"><img src="https://media.apiko.app/prompts/wan-3-0/4d18dcef-4125-4f48-b60d-ad090a2f4b04.webp" width="640" alt="飞碟带走的奶牛"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/899498a9-399a-4b8b-84d4-453ab04fc1b4" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -606,7 +606,7 @@ GERMINATION COMPLETE
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-13#text-to-video-13"><img src="https://media.apiko.app/prompts/wan-3-0/bb827f46-298e-4080-a96f-84b4fd0b2786.webp" width="640" alt="黑白棚拍的五人舞段"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/b05941ef-e8d4-448a-a98c-952dd1328d6c" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -624,7 +624,7 @@ MV概念风的五人韩国女团硬核大片舞段，纯黑与纯白无缝影棚
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-14#text-to-video-14"><img src="https://media.apiko.app/prompts/wan-3-0/45cf4374-c41b-4774-b0e7-00b39294a208.webp" width="640" alt="毛绒宇宙逃亡记"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/a9837e57-685a-43af-9cb7-d1c08d68067b" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -720,7 +720,7 @@ MV概念风的五人韩国女团硬核大片舞段，纯黑与纯白无缝影棚
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-15#text-to-video-15"><img src="https://media.apiko.app/prompts/wan-3-0/bee4a012-99e1-4d52-b13e-c369b215637f.webp" width="640" alt="石窟里的飞天与金刚"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/959501cb-da7f-4132-a9f2-a7e3838faa7e" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -746,7 +746,7 @@ MV概念风的五人韩国女团硬核大片舞段，纯黑与纯白无缝影棚
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-16#text-to-video-16"><img src="https://media.apiko.app/prompts/wan-3-0/5f0f7d09-d4a8-4315-b67d-66f29a0182da.webp" width="640" alt="哈瓦那街头的巨型骰子"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/a8078dd8-5652-4c1e-b1f3-5e65df5b12dc" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1083,7 +1083,7 @@ summer fashion film in colorful Havana streets, Caribbean old town editorial, yo
 
 <table>
 <tr><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=text-to-video-17#text-to-video-17"><img src="https://media.apiko.app/prompts/wan-3-0/93edb303-2a40-4ab4-8c34-0d9b632cc918.webp" width="640" alt="夜宅里的涂鸦怪物"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/83585424-cb8a-45b9-a429-f824cf4fc3e8" width="640" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1232,7 +1232,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-e19771794dc9.webp" width="220" alt="图1"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-01#image-reference-01"><img src="https://media.apiko.app/prompts/wan-3-0/0d1f0e5a-f4d8-4bf3-9e75-767874bed8ee.webp" width="360" alt="雨夜站台的告别"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-e19771794dc9.webp" width="220" alt="图1"></td><td align="center"><video src="https://github.com/user-attachments/assets/4703cf34-2f41-4880-8c56-61e0e71a41b3" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1250,7 +1250,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>图3</th><th>图4</th><th>图5</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-796b3857ac66.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-5d2f982940ec.webp" width="150" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-969e6ff571b2.webp" width="150" alt="图3"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-69ed6ad1cbd7.webp" width="150" alt="图4"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-ce0ddf52a811.webp" width="150" alt="图5"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-02#image-reference-02"><img src="https://media.apiko.app/prompts/wan-3-0/39733784-3603-4952-8a07-612cbc39c0a8.webp" width="360" alt="五位人物的头饰翻牌"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-796b3857ac66.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-5d2f982940ec.webp" width="150" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-969e6ff571b2.webp" width="150" alt="图3"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-69ed6ad1cbd7.webp" width="150" alt="图4"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-ce0ddf52a811.webp" width="150" alt="图5"></td><td align="center"><video src="https://github.com/user-attachments/assets/3434e753-c157-41f4-b533-222924af1c62" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1326,7 +1326,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-b60962b75b7f.webp" width="220" alt="图1"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-03#image-reference-03"><img src="https://media.apiko.app/prompts/wan-3-0/446d0562-c22a-4133-b65b-4e9a48cca53b.webp" width="360" alt="蜻蜓式弹射的微型飞行者"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-b60962b75b7f.webp" width="220" alt="图1"></td><td align="center"><video src="https://github.com/user-attachments/assets/a7006aad-5682-4034-a602-1ba35ac14473" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1557,7 +1557,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a631a8c26b5f.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-d53336b18710.webp" width="220" alt="图2"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-04#image-reference-04"><img src="https://media.apiko.app/prompts/wan-3-0/14da8413-2ed6-4b0b-865a-cfbcc676dd27.webp" width="360" alt="两只猫的对称荒诞冒险"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a631a8c26b5f.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-d53336b18710.webp" width="220" alt="图2"></td><td align="center"><video src="https://github.com/user-attachments/assets/6e156395-5963-4159-9eb6-3dbdbbe47bed" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1589,7 +1589,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>图3</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-d4a80f9cb9fa.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-65b8eaf75527.webp" width="220" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-4a86516842a0.webp" width="220" alt="图3"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-05#image-reference-05"><img src="https://media.apiko.app/prompts/wan-3-0/9fd5f898-6811-4db2-8401-dc5f9089aabe.webp" width="360" alt="芦苇滩上的双人对决"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-d4a80f9cb9fa.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-65b8eaf75527.webp" width="220" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-4a86516842a0.webp" width="220" alt="图3"></td><td align="center"><video src="https://github.com/user-attachments/assets/066390d1-9b34-4f23-bb1e-5a9c3036fb35" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1644,7 +1644,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>图3</th><th>图4</th><th>图5</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-cd0cb879907c.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-33722235a46e.webp" width="150" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-c117c3ecee70.webp" width="150" alt="图3"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a1d8808f099c.webp" width="150" alt="图4"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-9f4f6d246a6f.webp" width="150" alt="图5"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-06#image-reference-06"><img src="https://media.apiko.app/prompts/wan-3-0/fa4b7466-73bf-41a2-bed9-36dfdeef62bb.webp" width="360" alt="从纸张到界面的发布动效"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-cd0cb879907c.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-33722235a46e.webp" width="150" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-c117c3ecee70.webp" width="150" alt="图3"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a1d8808f099c.webp" width="150" alt="图4"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-9f4f6d246a6f.webp" width="150" alt="图5"></td><td align="center"><video src="https://github.com/user-attachments/assets/49d984d4-e4dc-4269-89cd-1a984a2bc987" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1669,7 +1669,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-8bf69ee0aa41.webp" width="220" alt="图1"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-07#image-reference-07"><img src="https://media.apiko.app/prompts/wan-3-0/a441a963-878a-415d-8c63-c535bfde1f1c.webp" width="360" alt="唇釉模特试色视频"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-8bf69ee0aa41.webp" width="220" alt="图1"></td><td align="center"><video src="https://github.com/user-attachments/assets/57bcbf92-621b-430e-b34e-8d61555d0595" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1687,7 +1687,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-b730725ba915.webp" width="220" alt="图1"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-08#image-reference-08"><img src="https://media.apiko.app/prompts/wan-3-0/cc0251b2-8135-4ac4-9899-a0be96a086e1.webp" width="360" alt="打烊后的善意"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-b730725ba915.webp" width="220" alt="图1"></td><td align="center"><video src="https://github.com/user-attachments/assets/c6429fac-78f4-41cb-9cc3-41322e6e6581" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1708,7 +1708,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a7c80a9d6df1.webp" width="220" alt="图1"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-09#image-reference-09"><img src="https://media.apiko.app/prompts/wan-3-0/45af0ba0-af5b-4815-a802-ce9be4d144d6.webp" width="360" alt="黏土小狐狸的苹果之旅"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a7c80a9d6df1.webp" width="220" alt="图1"></td><td align="center"><video src="https://github.com/user-attachments/assets/256e9d28-5a38-4bc8-8e58-58ca83660f41" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1726,7 +1726,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-3504c98cb80c.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-097f9a601abe.webp" width="220" alt="图2"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-10#image-reference-10"><img src="https://media.apiko.app/prompts/wan-3-0/2a771910-4c4f-4e75-be24-2370fe1033ed.webp" width="360" alt="蕾丝衬衫的午后咖啡馆"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-3504c98cb80c.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-097f9a601abe.webp" width="220" alt="图2"></td><td align="center"><video src="https://github.com/user-attachments/assets/7c1c94e1-59f8-4bb3-842d-997b5ce2e04c" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1744,7 +1744,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>图3</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a3d22ddf4ffa.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-38a1b0a20f66.webp" width="220" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-1f4c5daedf8d.webp" width="220" alt="图3"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-11#image-reference-11"><img src="https://media.apiko.app/prompts/wan-3-0/e3980b07-4502-4e9b-b2c2-2a790bde5ab8.webp" width="360" alt="通向魔法街巷的门"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a3d22ddf4ffa.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-38a1b0a20f66.webp" width="220" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-1f4c5daedf8d.webp" width="220" alt="图3"></td><td align="center"><video src="https://github.com/user-attachments/assets/3dd88381-a667-4519-a557-7da4302c79cc" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1766,7 +1766,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>图3</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-37458c83ec9c.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-c16d7463d3cd.webp" width="220" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-56f3fd1be628.webp" width="220" alt="图3"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-12#image-reference-12"><img src="https://media.apiko.app/prompts/wan-3-0/73780f6e-4f48-4523-b905-c79739da8586.webp" width="360" alt="三位角色的游戏PV"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-37458c83ec9c.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-c16d7463d3cd.webp" width="220" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-56f3fd1be628.webp" width="220" alt="图3"></td><td align="center"><video src="https://github.com/user-attachments/assets/aa04aa32-7b74-4ce0-92d1-785b115a7adb" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1820,7 +1820,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>图3</th><th>图4</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-6c3f33aa764c.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-5b0402e51935.webp" width="150" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-971c0543d377.webp" width="150" alt="图3"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-4c191e163310.webp" width="150" alt="图4"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-13#image-reference-13"><img src="https://media.apiko.app/prompts/wan-3-0/23df328c-6536-4242-860d-b0e293a45df9.webp" width="360" alt="双女主硬切时装大片"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-6c3f33aa764c.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-5b0402e51935.webp" width="150" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-971c0543d377.webp" width="150" alt="图3"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-4c191e163310.webp" width="150" alt="图4"></td><td align="center"><video src="https://github.com/user-attachments/assets/d970e973-e61a-41dd-9469-393feee73209" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1851,7 +1851,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>图3</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-2ef9199591ce.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-061d7b69b5fa.webp" width="220" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-0b088e2a369f.webp" width="220" alt="图3"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-14#image-reference-14"><img src="https://media.apiko.app/prompts/wan-3-0/adc55289-4cc2-4464-8ae5-a09947b92b23.webp" width="360" alt="霓虹都市光球追逐"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-2ef9199591ce.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-061d7b69b5fa.webp" width="220" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-0b088e2a369f.webp" width="220" alt="图3"></td><td align="center"><video src="https://github.com/user-attachments/assets/761bf735-5038-4b90-9196-4024b93602d5" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1905,7 +1905,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-c5a10eba63fd.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-2f3b7b7fcafb.webp" width="220" alt="图2"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=image-reference-15#image-reference-15"><img src="https://media.apiko.app/prompts/wan-3-0/a7957ccf-28cd-446e-af88-e6ac84414c58.webp" width="360" alt="黑松露坚果脆的产品展示"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-c5a10eba63fd.webp" width="220" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-2f3b7b7fcafb.webp" width="220" alt="图2"></td><td align="center"><video src="https://github.com/user-attachments/assets/e75abf71-c46e-4097-a7ad-bceef9d08176" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1928,7 +1928,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>视频1</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-496a8fc52504.webp" width="220" alt="图1"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-reference-01#video-reference-01"><img src="https://media.apiko.app/prompts/wan-3-0/738222ee-4b01-4fa5-a5bb-1877e9f0f1c6.webp" width="220" alt="视频1"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-reference-01#video-reference-01"><img src="https://media.apiko.app/prompts/wan-3-0/ecd4cbcf-ef4b-4d6f-8d1a-946bea7e7c7b.webp" width="360" alt="滑板动作，换上新人物"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-496a8fc52504.webp" width="220" alt="图1"></td><td align="center"><video src="https://github.com/user-attachments/assets/0be4c9d8-2a7b-43b6-93cc-5ddeeafbaac0" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/cbe7e20f-7437-4634-9a5e-d8d5948fecd9" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1946,7 +1946,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>视频1</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-reference-02#video-reference-02"><img src="https://media.apiko.app/prompts/wan-3-0/6a781c50-8735-4cbf-abbd-32faf66537ff.webp" width="220" alt="视频1"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-reference-02#video-reference-02"><img src="https://media.apiko.app/prompts/wan-3-0/bcd1d605-c06c-49ed-a5f6-fe586652cd7e.webp" width="360" alt="天台咖啡，借用参考运镜"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/adb66782-01c0-43ac-b187-5c4bb014ec8f" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/3b25d3e2-bd6d-4bde-891d-02f319adb650" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1964,7 +1964,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>视频1</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-c887f989b976.webp" width="220" alt="图1"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-reference-03#video-reference-03"><img src="https://media.apiko.app/prompts/wan-3-0/230ed0bc-931a-49b4-b926-674889265635.webp" width="220" alt="视频1"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-reference-03#video-reference-03"><img src="https://media.apiko.app/prompts/wan-3-0/2b64acb1-723a-4f24-adf2-a8d2a73d5410.webp" width="360" alt="能量特效套到人物身上"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-c887f989b976.webp" width="220" alt="图1"></td><td align="center"><video src="https://github.com/user-attachments/assets/7d786e5f-d256-4bcb-809c-9ba0ccdd069a" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/97e7ef06-50f2-41fb-ae8d-01465dd7a3e0" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -1987,7 +1987,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>图2</th><th>音频1</th><th>音频2</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-3da5a2250839.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-dfd5b66ee8a1.webp" width="150" alt="图2"></td><td align="center"><a href="https://media.apiko.app/prompts/wan-3-0/cf1fbe09-4e9b-4e12-b71b-beb9127a58a3.m4a">🎵 音频1</a></td><td align="center"><a href="https://media.apiko.app/prompts/wan-3-0/27f3aecd-6158-4808-9d6b-7c1871d1b826.m4a">🎵 音频2</a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=audio-reference-01#audio-reference-01"><img src="https://media.apiko.app/prompts/wan-3-0/09a2241e-3c3d-4c28-97de-67c311fe7bfa.webp" width="360" alt="健身房里的约练对话"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-3da5a2250839.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-dfd5b66ee8a1.webp" width="150" alt="图2"></td><td align="center"><a href="https://media.apiko.app/prompts/wan-3-0/cf1fbe09-4e9b-4e12-b71b-beb9127a58a3.m4a">🎵 音频1</a></td><td align="center"><a href="https://media.apiko.app/prompts/wan-3-0/27f3aecd-6158-4808-9d6b-7c1871d1b826.m4a">🎵 音频2</a></td><td align="center"><video src="https://github.com/user-attachments/assets/737e352f-b50f-41d4-80a2-ad6879682f65" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2005,7 +2005,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>音频1</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://media.apiko.app/prompts/wan-3-0/84fd2eef-c771-4856-ab92-c92095ec1660-15s.m4a">🎵 音频1</a><br><sub>参考音频已截取为 15 秒，以符合 API 的时长限制。</sub></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=audio-reference-02#audio-reference-02"><img src="https://media.apiko.app/prompts/wan-3-0/600b966f-030d-4bfa-befa-95e688becdd4.webp" width="360" alt="按音频节拍跳偶像舞"></a></td></tr>
+<tr><td align="center"><a href="https://media.apiko.app/prompts/wan-3-0/84fd2eef-c771-4856-ab92-c92095ec1660-15s.m4a">🎵 音频1</a><br><sub>参考音频已截取为 15 秒，以符合 API 的时长限制。</sub></td><td align="center"><video src="https://github.com/user-attachments/assets/554da218-d330-47a7-be71-73ff17078d3b" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2025,7 +2025,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>图1</th><th>视频1</th><th>音频1</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-733ad275a5d5.webp" width="220" alt="图1"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=audio-reference-03#audio-reference-03"><img src="https://media.apiko.app/prompts/wan-3-0/eba29bc1-0cf6-42d6-8609-8a3be10a8894.webp" width="220" alt="视频1"></a></td><td align="center"><a href="https://media.apiko.app/prompts/wan-3-0/d28c45e4-7776-465a-a9c2-bedd07dd987f.m4a">🎵 音频1</a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=audio-reference-03#audio-reference-03"><img src="https://media.apiko.app/prompts/wan-3-0/2172d9c8-8650-4ea1-92ee-5cf916637a0e.webp" width="360" alt="窗边打电话的男人"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-733ad275a5d5.webp" width="220" alt="图1"></td><td align="center"><video src="https://github.com/user-attachments/assets/35c9877b-226b-44c0-a53d-908a1892c620" width="220" controls muted playsinline></video></td><td align="center"><a href="https://media.apiko.app/prompts/wan-3-0/d28c45e4-7776-465a-a9c2-bedd07dd987f.m4a">🎵 音频1</a></td><td align="center"><video src="https://github.com/user-attachments/assets/c7486e88-54fc-4207-ab27-478bdb791049" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2056,7 +2056,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-01#video-edit-01"><img src="https://media.apiko.app/prompts/wan-3-0/b723e037-b718-4924-babf-de5f6ee82046.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-01#video-edit-01"><img src="https://media.apiko.app/prompts/wan-3-0/19b827f2-703e-409a-9a8d-37d3025b08a9.webp" width="360" alt="泳池杂物清除"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/88903f60-1ee6-49c4-b023-3b893620a766" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/944ca172-636e-43e7-9737-af2571118115" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2074,7 +2074,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-02#video-edit-02"><img src="https://media.apiko.app/prompts/wan-3-0/46a4dbf5-9c0f-43ca-baa1-90e0f51fe544.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-02#video-edit-02"><img src="https://media.apiko.app/prompts/wan-3-0/09aed73a-8a2a-4c40-9bac-aa6cbb2d5c14.webp" width="360" alt="木桌上添一只花瓶"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/8bd07b8e-5fe2-4de8-90cc-3845af015353" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/7bb9cc76-82d6-4375-b929-2d2eefd5d2c8" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2092,7 +2092,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-03#video-edit-03"><img src="https://media.apiko.app/prompts/wan-3-0/89705d15-90d5-4642-889b-148f0f4c2d88.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-03#video-edit-03"><img src="https://media.apiko.app/prompts/wan-3-0/9e1b8b46-b79d-4e23-bbe0-7c4f5f19f2cf.webp" width="360" alt="去掉左侧的男人"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/cf8ea4b6-4c5f-49f7-a327-fb99d200166d" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/b0e1b124-1c5e-46fa-b6c6-d333554618b0" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2110,7 +2110,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-04#video-edit-04"><img src="https://media.apiko.app/prompts/wan-3-0/3dc18ae6-418f-4938-8814-ef587271d0a8.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-04#video-edit-04"><img src="https://media.apiko.app/prompts/wan-3-0/d1d8e94b-249d-421b-8fbc-10020dc0dc17.webp" width="360" alt="小女孩换成年轻女人"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/0a34f3df-ed5e-43e4-a6ba-ceb2135fb10c" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/d1c4e397-a3d8-4ba3-9cd3-56a124839549" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2128,7 +2128,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-05#video-edit-05"><img src="https://media.apiko.app/prompts/wan-3-0/2a565c32-fb8c-4aea-a927-6a2dfd109ca3.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-05#video-edit-05"><img src="https://media.apiko.app/prompts/wan-3-0/72d7b132-6143-4d0c-b03f-46994506f4d7.webp" width="360" alt="放大的帆船"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/0464e865-3d3d-41ae-89a9-d9d8a5ce1233" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/be3dec11-56ec-4154-a803-f960c1715e1a" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2146,7 +2146,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-06#video-edit-06"><img src="https://media.apiko.app/prompts/wan-3-0/34ed8940-77db-401a-866f-0d47025443d2.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-06#video-edit-06"><img src="https://media.apiko.app/prompts/wan-3-0/51cc2042-f777-46c5-be27-148f016a3305.webp" width="360" alt="去掉帽子，露出自然发型"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/809846f0-25b2-48e4-b29d-e702cbec1a3f" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/238a1fa5-3a87-48fc-b754-ba19bad4eff8" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2164,7 +2164,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-07#video-edit-07"><img src="https://media.apiko.app/prompts/wan-3-0/4a76d2b6-893a-4aa3-85c4-609372c6b045.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-07#video-edit-07"><img src="https://media.apiko.app/prompts/wan-3-0/988ece19-c205-4340-bf07-b9af2a95f386.webp" width="360" alt="沙滩上半埋的礁石"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/214b4b44-e867-496f-80c7-10316f21f2e1" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/59963fb8-eefa-42ca-8f90-c961d079b56a" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2182,7 +2182,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-08#video-edit-08"><img src="https://media.apiko.app/prompts/wan-3-0/cf2d325c-1de8-4fcf-82d1-89a24a87c707.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-08#video-edit-08"><img src="https://media.apiko.app/prompts/wan-3-0/15707a2b-112a-474e-9080-0314130b4d5b.webp" width="360" alt="滑板手换成短发女生"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/5e48785c-60c1-4f95-8eeb-805e0d98172c" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/64c41541-7918-42d4-b378-9ece6ef17699" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2200,7 +2200,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-09#video-edit-09"><img src="https://media.apiko.app/prompts/wan-3-0/d097d3f0-0fba-4ee3-8b74-90c10f5dd12e.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-09#video-edit-09"><img src="https://media.apiko.app/prompts/wan-3-0/dd665ab1-30c1-44d2-9445-8dd8ea5423cd.webp" width="360" alt="摘掉墨镜，露出眼妆"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/b8b9cd1e-3315-4822-82dc-1e3211585054" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/4ce08867-1977-4222-ad92-2a10e1d97992" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2218,7 +2218,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-10#video-edit-10"><img src="https://media.apiko.app/prompts/wan-3-0/9275d6c1-6bfc-49db-9bdc-8ace6c8a3ae0.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-10#video-edit-10"><img src="https://media.apiko.app/prompts/wan-3-0/4f68edcd-ea71-427e-8473-22ac2c5bfe50.webp" width="360" alt="美剧式三点布光提亮"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/a96898c6-cea1-4c74-9214-650171a19b65" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/e8e20656-4980-4766-85cd-97e12f5ebdc3" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2236,7 +2236,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-11#video-edit-11"><img src="https://media.apiko.app/prompts/wan-3-0/0eecf299-279b-4e1b-84a3-7dbcf18d9b7c.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-11#video-edit-11"><img src="https://media.apiko.app/prompts/wan-3-0/ac1ffa8f-e900-4b8c-b752-64e69752756d.webp" width="360" alt="西装男与鸵鸟互换位置"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/6bfd77e4-35f6-446c-b81e-1a8bde02cbbc" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/f47d6219-705f-4f0c-bdce-be6c85f0e74d" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2254,7 +2254,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-12#video-edit-12"><img src="https://media.apiko.app/prompts/wan-3-0/9a1c912e-6378-47c7-b76e-a3f59c1067b0.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-12#video-edit-12"><img src="https://media.apiko.app/prompts/wan-3-0/732635b5-c08a-4981-acae-26eab2a15576.webp" width="360" alt="整段视频变成粘土动画"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/8adedf8a-b6f0-4723-a8a5-99af55c1e4d2" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/b773eb65-3ab5-4690-9d60-f65af0381ce5" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2272,7 +2272,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-13#video-edit-13"><img src="https://media.apiko.app/prompts/wan-3-0/1361108a-88f2-403b-870a-45ef257fef80.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-13#video-edit-13"><img src="https://media.apiko.app/prompts/wan-3-0/c9ed9feb-f14e-409c-80e2-3fb61e0647b5.webp" width="360" alt="台词改成英文"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/0646086f-ee50-4ea7-b97c-7de0e71257bb" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/c8b3c7df-fa0c-433f-9d3d-219993075792" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2290,7 +2290,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>图1</th><th>图2</th><th>图3</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-14#video-edit-14"><img src="https://media.apiko.app/prompts/wan-3-0/50b03cf9-aaac-4990-9c96-3af38ecaa4ac.webp" width="150" alt="编辑前视频"></a></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-ebff47c4b312.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a05daa6fe849.webp" width="150" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-ca131eed493c.webp" width="150" alt="图3"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-14#video-edit-14"><img src="https://media.apiko.app/prompts/wan-3-0/d3600765-957a-440d-829a-d160cbfac181.webp" width="360" alt="参考帽子与牛仔衬衫换装"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/24c128c9-44f6-435c-9acf-182e5d437728" width="150" controls muted playsinline></video></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-ebff47c4b312.webp" width="150" alt="图1"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-a05daa6fe849.webp" width="150" alt="图2"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-ca131eed493c.webp" width="150" alt="图3"></td><td align="center"><video src="https://github.com/user-attachments/assets/72d771a2-9372-4979-a74b-de61afacc08d" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2308,7 +2308,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-15#video-edit-15"><img src="https://media.apiko.app/prompts/wan-3-0/506223e1-11c3-43eb-92e6-3a3d35662534.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-edit-15#video-edit-15"><img src="https://media.apiko.app/prompts/wan-3-0/59c0282b-a57f-4bdc-b208-4a82ff84c2a6.webp" width="360" alt="男人拿起吉他演奏"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/9a025596-92fb-4d6e-b02d-9fc805072ecd" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/5ed9cad8-0617-4032-98bf-e9fbed2bad59" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2331,7 +2331,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-extend-01#video-extend-01"><img src="https://media.apiko.app/prompts/wan-3-0/3c3e52a7-d327-434c-ba28-662fa391ac88.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-extend-01#video-extend-01"><img src="https://media.apiko.app/prompts/wan-3-0/ed921d5b-3fdc-4c1d-a991-7eb66ed1410d.webp" width="360" alt="茶馆里的货期谈判"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/78edb870-fd1c-44df-9659-5064ef5e459b" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/aa4294fb-87d7-47a9-bf33-e39dc5dae5a7" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2349,7 +2349,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-extend-02#video-extend-02"><img src="https://media.apiko.app/prompts/wan-3-0/db033e32-f527-42e5-a6a3-2e0c8a478476.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-extend-02#video-extend-02"><img src="https://media.apiko.app/prompts/wan-3-0/7794b392-25b5-4cd2-bcce-acc74b7822ea.webp" width="360" alt="舞厅里的华尔兹邀约"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/a5a194c6-cce2-4f29-a0b4-0fae1e261e02" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/78485779-2b87-4e7e-82ba-bcf061f44a09" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2367,7 +2367,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>编辑前视频</th><th>成片</th></tr>
-<tr><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-extend-03#video-extend-03"><img src="https://media.apiko.app/prompts/wan-3-0/bc332539-9f96-4507-8980-be300c864e9c.webp" width="220" alt="编辑前视频"></a></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=video-extend-03#video-extend-03"><img src="https://media.apiko.app/prompts/wan-3-0/8760a239-d7b0-4b86-b036-de69770fd81a.webp" width="360" alt="雪林小径的回眸笑"></a></td></tr>
+<tr><td align="center"><video src="https://github.com/user-attachments/assets/ef32536e-c46b-45fe-8232-adae330d16a1" width="220" controls muted playsinline></video></td><td align="center"><video src="https://github.com/user-attachments/assets/dda2f74e-24dd-41ef-a054-46834ee0c318" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2390,7 +2390,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>首帧</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-dfcdcb99eb72.webp" width="220" alt="首帧"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=first-last-frame-01#first-last-frame-01"><img src="https://media.apiko.app/prompts/wan-3-0/303000ae-c02c-4087-915e-1d2e66b3f3b0.webp" width="360" alt="水墨竹林里的刀客"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-dfcdcb99eb72.webp" width="220" alt="首帧"></td><td align="center"><video src="https://github.com/user-attachments/assets/ba544b6a-e0c0-4276-acdb-68f265115d4d" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2443,7 +2443,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>首帧</th><th>尾帧</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-39f49617fb9e.webp" width="220" alt="首帧"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-43788c0e1dd8.webp" width="220" alt="尾帧"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=first-last-frame-02#first-last-frame-02"><img src="https://media.apiko.app/prompts/wan-3-0/0d1fe863-7a99-4ccd-8e3c-d046483e7fd8.webp" width="360" alt="草帽女子的回忆"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-39f49617fb9e.webp" width="220" alt="首帧"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-43788c0e1dd8.webp" width="220" alt="尾帧"></td><td align="center"><video src="https://github.com/user-attachments/assets/0f5f3baa-774b-49c7-80d9-4ab08cc398aa" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
@@ -2471,7 +2471,7 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 
 <table>
 <tr><th>首帧</th><th>尾帧</th><th>成片</th></tr>
-<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-2244340a2b1b.webp" width="220" alt="首帧"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-19663921317c.webp" width="220" alt="尾帧"></td><td align="center"><a href="https://apiko.app/zh/wan-3-0-prompts?utm_source=github&utm_medium=case&utm_campaign=awesome-wan-3.0-prompts&utm_content=first-last-frame-03#first-last-frame-03"><img src="https://media.apiko.app/prompts/wan-3-0/5d1e0dcd-b43f-47e2-9c43-997060775012.webp" width="360" alt="西湖水神西子"></a></td></tr>
+<tr><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-2244340a2b1b.webp" width="220" alt="首帧"></td><td align="center"><img src="https://media.apiko.app/prompts/wan-3-0/img-19663921317c.webp" width="220" alt="尾帧"></td><td align="center"><video src="https://github.com/user-attachments/assets/7118a9f5-799f-4dd9-bded-3f3b48684c7f" width="360" controls muted playsinline></video></td></tr>
 </table>
 
 **提示词:**
