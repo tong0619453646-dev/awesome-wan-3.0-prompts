@@ -144,6 +144,7 @@ const ORDER = ['en', 'zh', 'zh-TW', 'ko'];
 // The other APIKO prompt collections, linked under Related.
 const SIBLINGS = [
   ['awesome-seedance-2.5-prompts', 'Awesome Seedance 2.5 Prompts'],
+  ['awesome-seedance-2.0-prompts', 'Awesome Seedance 2.0 Prompts'],
   ['awesome-kling-4.0-prompts', 'Awesome Kling 4.0 Prompts'],
   ['awesome-gpt-image-2.6-prompts', 'Awesome GPT Image 2.6 Prompts'],
   ['awesome-nano-banana-2.1-prompts', 'Awesome Nano Banana 2.1 Prompts'],
