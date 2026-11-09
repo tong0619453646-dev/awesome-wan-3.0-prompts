@@ -4347,6 +4347,15 @@ Wan 3.0 Reference-to-Video에서 HTTPS URL을 reference_image_urls(최대 10개)
 - [Wan 3.0 API 가격 비교](https://apiko.app/ko/compare/wan-api-pricing?utm_source=github&utm_medium=related&utm_campaign=awesome-wan-3.0-prompts)
 - [APIKO API 코드 예시](https://github.com/tong0619453646-dev/apiko-ai-api-examples)
 
+**다른 프롬프트 모음**
+
+- [Awesome Seedance 2.5 Prompts](https://github.com/tong0619453646-dev/awesome-seedance-2.5-prompts/blob/main/README_ko.md)
+- [Awesome GPT Image 2.6 Prompts](https://github.com/tong0619453646-dev/awesome-gpt-image-2.6-prompts/blob/main/README_ko.md)
+- [Awesome Nano Banana 2.1 Prompts](https://github.com/tong0619453646-dev/awesome-nano-banana-2.1-prompts/blob/main/README_ko.md)
+- [Awesome GPT Image 2.5 Prompts](https://github.com/tong0619453646-dev/awesome-gpt-image-2.5-prompts/blob/main/README_ko.md)
+- [Awesome GPT Image 2 Prompts](https://github.com/tong0619453646-dev/awesome-gpt-image-2-prompts/blob/main/README_ko.md)
+- [Awesome Claude Opus 5.5 Video Prompts](https://github.com/tong0619453646-dev/awesome-claude-opus-5.5-video-prompts/blob/main/README_ko.md)
+
 <a id="license"></a>
 ## 📄 라이선스와 출처
 

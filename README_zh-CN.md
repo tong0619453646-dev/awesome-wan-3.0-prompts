@@ -2532,6 +2532,15 @@ MG动画不能使用光滑贝塞尔曲线、均匀描边、纯净矢量填色、
 - [Wan 3.0 API 价格对比](https://apiko.app/zh/compare/wan-api-pricing?utm_source=github&utm_medium=related&utm_campaign=awesome-wan-3.0-prompts)
 - [APIKO API 代码示例](https://github.com/tong0619453646-dev/apiko-ai-api-examples)
 
+**更多提示词合集**
+
+- [Awesome Seedance 2.5 Prompts](https://github.com/tong0619453646-dev/awesome-seedance-2.5-prompts/blob/main/README_zh-CN.md)
+- [Awesome GPT Image 2.6 Prompts](https://github.com/tong0619453646-dev/awesome-gpt-image-2.6-prompts/blob/main/README_zh-CN.md)
+- [Awesome Nano Banana 2.1 Prompts](https://github.com/tong0619453646-dev/awesome-nano-banana-2.1-prompts/blob/main/README_zh-CN.md)
+- [Awesome GPT Image 2.5 Prompts](https://github.com/tong0619453646-dev/awesome-gpt-image-2.5-prompts/blob/main/README_zh-CN.md)
+- [Awesome GPT Image 2 Prompts](https://github.com/tong0619453646-dev/awesome-gpt-image-2-prompts/blob/main/README_zh-CN.md)
+- [Awesome Claude Opus 5.5 Video Prompts](https://github.com/tong0619453646-dev/awesome-claude-opus-5.5-video-prompts/blob/main/README_zh-CN.md)
+
 <a id="license"></a>
 ## 📄 许可与出处
 

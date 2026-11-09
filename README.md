@@ -4346,6 +4346,15 @@ Billing is per second of output, and reference-video seconds count too. Dated pr
 - [Wan 3.0 API price comparison](https://apiko.app/compare/wan-api-pricing?utm_source=github&utm_medium=related&utm_campaign=awesome-wan-3.0-prompts)
 - [Code examples for the APIKO API](https://github.com/tong0619453646-dev/apiko-ai-api-examples)
 
+**More prompt collections**
+
+- [Awesome Seedance 2.5 Prompts](https://github.com/tong0619453646-dev/awesome-seedance-2.5-prompts)
+- [Awesome GPT Image 2.6 Prompts](https://github.com/tong0619453646-dev/awesome-gpt-image-2.6-prompts)
+- [Awesome Nano Banana 2.1 Prompts](https://github.com/tong0619453646-dev/awesome-nano-banana-2.1-prompts)
+- [Awesome GPT Image 2.5 Prompts](https://github.com/tong0619453646-dev/awesome-gpt-image-2.5-prompts)
+- [Awesome GPT Image 2 Prompts](https://github.com/tong0619453646-dev/awesome-gpt-image-2-prompts)
+- [Awesome Claude Opus 5.5 Video Prompts](https://github.com/tong0619453646-dev/awesome-claude-opus-5.5-video-prompts)
+
 <a id="license"></a>
 ## 📄 License and credits
 

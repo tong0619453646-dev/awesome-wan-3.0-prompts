@@ -45,6 +45,7 @@ const LOCALES = {
       ['Wan 3.0 API price comparison', '/compare/wan-api-pricing'],
     ],
     examples: 'Code examples for the APIKO API',
+    otherRepos: 'More prompt collections',
     license: (h) => `The prompts and example videos come from Alibaba's [Wan 3.0 creator handbook](${h}) and belong to Alibaba; they are shared here for reference with the source credited. Translations, descriptions and the build scripts are released under [CC BY 4.0](LICENSE).`,
     star: 'If this list saves you time, a ⭐ helps others find it.',
   },
@@ -74,6 +75,7 @@ const LOCALES = {
       ['Wan 3.0 API 价格对比', '/compare/wan-api-pricing'],
     ],
     examples: 'APIKO API 代码示例',
+    otherRepos: '更多提示词合集',
     license: (h) => `提示词和示例视频来自阿里[《Wan3.0 视频创作者手册》](${h})，版权归阿里所有，这里注明出处、仅作参考。译文、简介和生成脚本采用 [CC BY 4.0](LICENSE) 许可。`,
     star: '如果这份合集帮你省了时间，点个 ⭐ 能让更多人看到。',
   },
@@ -103,6 +105,7 @@ const LOCALES = {
       ['Wan 3.0 API 價格比較', '/compare/wan-api-pricing'],
     ],
     examples: 'APIKO API 程式碼範例',
+    otherRepos: '更多提示詞合集',
     license: (h) => `提示詞與範例影片來自阿里[《Wan3.0 影片創作者手冊》](${h})，版權歸阿里所有，這裡註明出處、僅供參考。譯文、簡介與生成腳本採用 [CC BY 4.0](LICENSE) 授權。`,
     star: '如果這份合集幫你省了時間，按個 ⭐ 能讓更多人看到。',
   },
@@ -132,11 +135,21 @@ const LOCALES = {
       ['Wan 3.0 API 가격 비교', '/compare/wan-api-pricing'],
     ],
     examples: 'APIKO API 코드 예시',
+    otherRepos: '다른 프롬프트 모음',
     license: (h) => `프롬프트와 예시 영상의 출처는 알리바바의 [Wan 3.0 크리에이터 핸드북](${h})이며 저작권은 알리바바에 있습니다. 출처를 밝히고 참고용으로 공유합니다. 번역, 설명, 빌드 스크립트는 [CC BY 4.0](LICENSE)으로 배포합니다.`,
     star: '이 목록이 도움이 됐다면 ⭐ 를 눌러 다른 사람도 찾을 수 있게 해 주세요.',
   },
 };
 const ORDER = ['en', 'zh', 'zh-TW', 'ko'];
+// The other APIKO prompt collections, linked under Related.
+const SIBLINGS = [
+  ['awesome-seedance-2.5-prompts', 'Awesome Seedance 2.5 Prompts'],
+  ['awesome-gpt-image-2.6-prompts', 'Awesome GPT Image 2.6 Prompts'],
+  ['awesome-nano-banana-2.1-prompts', 'Awesome Nano Banana 2.1 Prompts'],
+  ['awesome-gpt-image-2.5-prompts', 'Awesome GPT Image 2.5 Prompts'],
+  ['awesome-gpt-image-2-prompts', 'Awesome GPT Image 2 Prompts'],
+  ['awesome-claude-opus-5.5-video-prompts', 'Awesome Claude Opus 5.5 Video Prompts'],
+];
 
 // shields.io static badge: "-" and "_" must be doubled, spaces become "_".
 const shield = (label, message, color) => `https://img.shields.io/badge/${[label, message].map((s) => encodeURIComponent(s.replace(/-/g, '--').replace(/_/g, '__').replace(/ /g, '_'))).join('-')}-${color}`;
@@ -267,6 +280,9 @@ function build(locale) {
   push(`<a id="related"></a>`, `## 🔗 ${L.h.related}`, '');
   for (const [label, path, docs] of L.related) push(`- [${label}](${SITE}${docs ? L.docsPrefix : L.prefix}${path}?${utm('related')})`);
   push(`- [${L.examples}](https://github.com/tong0619453646-dev/apiko-ai-api-examples)`, '');
+  push(`**${L.otherRepos}**`, '');
+  for (const [name, label] of SIBLINGS) push(`- [${label}](https://github.com/tong0619453646-dev/${name}${locale === 'en' ? '' : `/blob/main/${L.file}`})`);
+  push('');
 
   push(`<a id="license"></a>`, `## 📄 ${L.h.license}`, '', L.license(HANDBOOK), '', L.star, '');
   return out.join('\n');
